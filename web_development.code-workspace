@@ -1,7 +1,9 @@
 {
 	"folders": [
 		{
+			"name": "WebDeveLopment_Basic_CS",
 			"path": "WebDeveLopment_Basic_CS"
 		}
-	]
+	],
+	"settings": {}
 }
