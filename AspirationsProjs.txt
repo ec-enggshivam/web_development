@@ -1,0 +1,11 @@
+1) Real time collaboration App like Google Meet/Zoom
+2) Data Visualisation App with real time updates like data shown online 
+and then user applies some filters and the app updates new data real-time
+3) Something like MS Teams can also be planned where text suggestions/auto-complete. 
+The same thing might be extended with AI powered APIs.
+5) Tracker of some kind like supply chain tracker or real-estate tracker.
+Extend later with Blockchain based functionality.
+6) AR based try-ons
+7) Voice controlled home automation(IoT)
+8) Virtual Reality based tourism app
+9) Photo editing app
