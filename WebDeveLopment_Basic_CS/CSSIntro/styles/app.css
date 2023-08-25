@@ -1,0 +1,13 @@
+/* Same thing what we did in the HTML we do here.
+Include this in all files where the same style is to be shared */
+h2 {
+    color: blue;
+}
+
+button{
+    color:teal
+}
+
+p{
+    color:black
+}
